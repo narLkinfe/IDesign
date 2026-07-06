@@ -1,57 +1,58 @@
 # IDesign 📚
 
-> **IDesign** is a collection of open-source e-books written, refined, and managed using a "book-as-code" workflow. Here you’ll find public manuscripts, active chapters in progress, and beautifully formatted final editions ready for digital consumption.
+> **IDesign** በ"book-as-code" (መጽሐፍ እንደ ኮድ) የስራ ሂደት የተዘጋጁ፣ የተሻሻሉ እና የሚተዳደሩ የክፍት ምንጭ (open-source) ኢ-መጽሐፍት ስብስብ ነው። እዚህ ላይ ይፋዊ የእጅ ጽሑፎችን፣ በመዘጋጀት ላይ ያሉ ንቁ ምዕራፎችን እና ለዲጂታል ንባብ የተዘጋጁ በጥሩ ሁኔታ የተቀረጹ የመጨረሻ እትሞችን ያገኛሉ።
 
-As an author, I believe the process of writing should be as collaborative and transparent as software development. This space allows readers to follow along with my creative journey in real-time, catch typos, and even suggest improvements.
+እንደ ደራሲ፣ የመጻፍ ሂደት እንደ ሶፍትዌር ልማት ሁሉ የጋራ እና ግልጽ መሆን አለበት ብዬ አምናለሁ። ይህ ምህዳር አንባቢዎች የፈጠራ ጉዞዬን በቅጽበት (real-time) እንዲከታተሉ፣ የፊደል ግድፈቶችን እንዲያርሙ እና የተሻሉ ማሻሻያዎችን እንኳን ሃሳብ እንዲሰጡ ያስችላል።
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0" />
   <img src="https://img.shields.io/badge/Photoshop-2026-blue?logo=adobephotoshop&logoColor=white" alt="Photoshop 2026" />
   <img src="https://img.shields.io/badge/Illustrator-2026-orange?logo=adobeillustrator&logoColor=white" alt="Illustrator 2026" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
 </p>
 
 ---
 
-### 📖 Introduction
+### 📖 መግቢያ
 
-> **IDesign** is the official open-source repository and digital home for the **IDESIGN CookBook (First Edition)** series published by Selamta Technologies.
+> **IDesign** በሰላምታ ቴክኖሎጂስ (Selamta Technologies) የታተመው የ**IDESIGN CookBook (First Edition)** ተከታታይ መጽሐፍት ይፋዊ የክፍት ምንጭ ማከማቻ (repository) እና ዲጂታል መነሻ ነው።
 
-Built on a **"book-as-code"** workflow, this project opens up high-quality design education to everyone[cite: 1, 3]. Here, you will find our public manuscripts, step-by-step recipes, and source assets[cite: 1, 3]. Because this project is fully open-source, readers and creators worldwide are welcome to learn, share, and help us improve the material in real-time[cite: 1, 3].
+በ**"book-as-code"** የስራ ሂደት ላይ የተገነባው ይህ ፕሮጀክት፣ ጥራት ያለው የዲዛይን ትምህርት ለሁሉም ክፍት ያደርጋል። እዚህ ላይ የእኛን ይፋዊ የእጅ ጽሑፎች፣ ደረጃ በደረጃ የሚተገበሩ የምግብ አዘገጃጀት መመሪያዎችን (recipes) እና የምንጭ ንብረቶችን (assets) ያገኛሉ። ይህ ፕሮጀክት ሙሉ በሙሉ ክፍት ምንጭ (open-source) በመሆኑ፣ በዓለም ዙሪያ ያሉ አንባቢዎች እና ፈጣሪዎች ይዘቱን በቅጽበት እንዲማሩበት፣ እንዲያጋሩት እና እንድናሻሽለው እንዲረዱን በደስታ እንቀበላለን።
 
 ---
 
-## 📚 Featured Publication
+## 📚 ተለይቶ የቀረበ እትም
 
 <p align="left">
   <img src="https://img.shields.io/badge/Book-IDESIGN%20Cookbook-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
 ### 📘 IDESIGN Cookbook (First Edition)
-*Master Photoshop & Illustrator features, with over 100 recipes, updated to PS, AI 2026.*
+*ከ100 በላይ መመሪያዎችን የያዘ፣ ለፒኤስ (PS) እና ኤአይ (AI) 2026 የተዘመነ የፎቶሾፕ (Photoshop) እና ኢሉስትሬተር (Illustrator) ባህሪያት ማስተመሪያ።*
 
 <div align="center">
-	<img width="341" height="426" src="https://github.com/narLkinfe/IDesign/blob/main/IDesign%20-%20Cover.png" alt="IDesign - Guid to design the right way.">
-	<br>
-	<br>
-	<br>
+    <img width="341" height="426" src="https://github.com/narLkinfe/IDesign/blob/main/IDesign%20-%20Cover.png" alt="IDesign - Guid to design the right way.">
+    <br>
+    <br>
+    <br>
 </div>
 
-* 🏢 **Author/Publisher:** Selamta Technologies
-* 🚀 **Status:** Published / Open-Source First Edition
-* 🛠️ **Target Software:** Adobe Photoshop 2026 & Adobe Illustrator 2026
-* 📄 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)[cite: 3]
+* 🏢 **ደራሲ/አሳታሚ:** ሰላምታ ቴክኖሎጂስ (Selamta Technologies)
+* 🚀 **ሁኔታ:** የታተመ / የክፍት ምንጭ መጀመሪያ እትም
+* 🛠️ **ታላሚ ሶፍትዌር:** Adobe Photoshop 2026 እና Adobe Illustrator 2026
+* 📄 **ፈቃድ:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-#### About the Book
-The **IDESIGN Cookbook** is designed to dismantle the age-old myth that *"Photoshop is a complicated program"*[cite: 3]. What began nearly four decades ago as a simple grayscale utility called *Display* has evolved into the industry standard for creative expression[cite: 3]. 
+#### ስለ መጽሐፉ
+የ**IDESIGN Cookbook** የተዘጋጀው "ፎቶሾፕ ውስብስብ ፕሮግራም ነው" የሚለውን የቆየ የተሳሳተ አመለካከት ለመስበር ነው። ከዛሬ አራት አስርት ዓመታት ገደማ በፊት *Display* በሚል ስም በቀላል ግራጫ ቀለም (grayscale) መተግበሪያነት የተጀመረው ሶፍትዌር፣ ዛሬ ለፈጠራ መግለጫ የኢንዱስትሪው መመዘኛ ሆኗል። 
 
-This textbook strips away the intimidation[cite: 3]. It breaks down modern digital design into over 100 actionable, step-by-step "recipes" that give you the definitive methods to master the canvas using the latest 2026 features[cite: 3].
+ይህ የመማሪያ መጽሐፍ ፍርሃትን ያስወግዳል። ዘመናዊ የዲጂታል ዲዛይንን ከ100 በላይ ሊተገበሩ በሚችሉ፣ ደረጃ በደረጃ በሚሄዱ "የምግብ አዘገጃጀት መመሪያዎች" (recipes) ይከፋፍላል፤ ይህም የቅርብ ጊዜዎቹን የ2026 ባህሪያት በመጠቀም ካንቫሱን (canvas) በጥራት ለመቆጣጠር የሚያስችሉ ወሳኝ ዘዴዎችን ይሰጥዎታል።
 
 ---
 
-## ⚙️ The "Book-as-Code" Workflow
+## ⚙️ የ"Book-as-Code" የስራ ሂደት
 
-Managing this textbook through GitHub allows us to keep design education dynamic and collaborative[cite: 1, 3]:
+ይህንን የመማሪያ መጽሐፍ በGitHub በኩል ማስተዳደራችን የዲዛይን ትምህርቱን ተለዋዋጭ እና የጋራ ለማድረግ ያስችለናል፦
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-Version%20Control-E44C30?style=flat-square&logo=git&logoColor=white" alt="Version Control" />
@@ -59,17 +60,17 @@ Managing this textbook through GitHub allows us to keep design education dynamic
   <img src="https://img.shields.io/badge/Assets-Open%20Source-success?style=flat-square&logo=adobe&logoColor=white" alt="Accessible Assets" />
 </p>
 
-* **Version Control:** Track updates, software UI shifts, and text revisions transparently using a unified Git history[cite: 1].
-* **Community-Driven:** Anyone can flag a broken step, suggest a more efficient shortcut for AI/PS 2026, or fix a typo[cite: 1, 3].
-* **Accessible Assets:** Source project files (`.psd`, `.ai` ,`.indd`) live right alongside the text for seamless, hands-on learning[cite: 3].
+* **የስሪት ቁጥጥር (Version Control):** የተዋሃደ የGit ታሪክን በመጠቀም ዝመናዎችን፣ የሶፍትዌር የተጠቃሚ በይነገጽ (UI) ለውጦችን እና የጽሑፍ ክለሳዎችን በግልጽ መከታተል።
+* **በማህበረሰብ የሚመራ (Community-Driven):** ማንም ሰው የተቋረጠ ደረጃን መጠቆም፣ ለAI/PS 2026 የበለጠ ቀልጣፋ አቋራጭ መንገድ (shortcut) መጠቆም ወይም የፊደል ግድፈትን ማስተካከል ይችላል።
+* **ሊደረሱባቸው የሚችሉ ንብረቶች (Accessible Assets):** ለቀጣይ እና ተግባራዊ ትምህርት ሲባል የምንጭ ፕሮጀክት ፋይሎች (`.psd`፣ `.ai`፣ `.indd`) በቀጥታ ከጽሑፉ ጎን ይገኛሉ።
 ---
 
-## 📂 Repository Structure
+## 📂 የማከማቻ መዋቅር
 
 ```text
 ├── books/
 │   └── idesign-cookbook-1st-ed/
-│       ├── chapters/          # Raw text files for the 100+ recipes (.md)[cite: 1, 3]
-│       ├── project-files/     # Starter assets, layers, and vectors (.psd, .ai)[cite: 3]
-│       └── README.md          # Book-specific Table of Contents
-└── README.md                  # Main repository dashboard
+│       ├── chapters/          # ከ100 በላይ ለሆኑ መመሪያዎች ጥሬ የጽሑፍ ፋይሎች (.md)
+│       ├── project-files/     # መነሻ ንብረቶች፣ ሌየሮች እና ቬክተሮች (.psd, .ai)
+│       └── README.md          # ለመጽሐፉ የተለየ የይዘት ማውጫ
+└── README.md                  # ዋናው የማከማቻ ዳሽቦርድ
