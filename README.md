@@ -30,6 +30,13 @@ Built on a **"book-as-code"** workflow, this project opens up high-quality desig
 ### 📘 IDESIGN Cookbook (First Edition)
 *Master Photoshop & Illustrator features, with over 100 recipes, updated to PS, AI 2026.*
 
+<div align="center">
+	<img width="341" height="426" src="" alt="IDesign - Guid to design the right way.">
+	<br>
+	<br>
+	<br>
+</div>
+
 * 🏢 **Author/Publisher:** Selamta Technologies
 * 🚀 **Status:** Published / Open-Source First Edition
 * 🛠️ **Target Software:** Adobe Photoshop 2026 & Adobe Illustrator 2026
