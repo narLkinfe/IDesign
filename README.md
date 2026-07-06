@@ -74,6 +74,3 @@ Managing this textbook through GitHub allows us to keep design education dynamic
 │       ├── project-files/     # Starter assets, layers, and vectors (.psd, .ai)[cite: 3]
 │       └── README.md          # Book-specific Table of Contents
 └── README.md                  # Main repository dashboard
-
-
-In Amharic
