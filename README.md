@@ -31,7 +31,7 @@ Built on a **"book-as-code"** workflow, this project opens up high-quality desig
 *Master Photoshop & Illustrator features, with over 100 recipes, updated to PS, AI 2026.*
 
 <div align="center">
-	<img width="341" height="426" src="" alt="IDesign - Guid to design the right way.">
+	<img width="341" height="426" src="https://github.com/narLkinfe/IDesign/blob/main/IDesign%20-%20Cover.png" alt="IDesign - Guid to design the right way.">
 	<br>
 	<br>
 	<br>
