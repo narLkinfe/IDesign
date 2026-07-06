@@ -35,6 +35,7 @@
     <img width="341" height="426" src="IDesign - Guid to design the right way..pdf" alt="IDesign - Guid to design the right way.">
     <br>
     <br>
+  <img width="341" height="426" src="IDesign - Cover.png" alt="IDesign - Guid to design the right way.">
     <br>
 </div>
 
