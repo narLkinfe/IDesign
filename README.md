@@ -28,7 +28,7 @@ Built on a **"book-as-code"** workflow, this project opens up high-quality desig
   <img src="https://img.shields.io/badge/Book-IDESIGN%20Cookbook-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
-### 📘 IDESIGN Cookbook (First Edition)
+### 📘 IDESIGN Cookbook •First Edition
 *Master Photoshop & Illustrator features, with over 100 recipes, updated to PS, AI 2026.*
 
 <div align="center">
