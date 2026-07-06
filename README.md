@@ -32,7 +32,7 @@
 *ከ100 በላይ መመሪያዎችን የያዘ፣ ለፒኤስ (PS) እና ኤአይ (AI) 2026 የተዘመነ የፎቶሾፕ (Photoshop) እና ኢሉስትሬተር (Illustrator) ባህሪያት ማስተመሪያ።*
 
 <div align="center">
-    <img width="341" height="426" src="https://github.com/narLkinfe/IDesign/blob/main/IDesign%20-%20Cover.png" alt="IDesign - Guid to design the right way.">
+    <img width="341" height="426" src="IDesign - Guid to design the right way..pdf" alt="IDesign - Guid to design the right way.">
     <br>
     <br>
     <br>
