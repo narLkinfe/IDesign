@@ -1,4 +1,4 @@
-# IDesign 📚
+# IDesign 📙
 
 > **IDesign** is a collection of open-source e-books written, refined, and managed using a "book-as-code" workflow. Here you’ll find public manuscripts, active chapters in progress, and beautifully formatted final editions ready for digital consumption.
 
@@ -14,7 +14,7 @@ As an author, I believe the process of writing should be as collaborative and tr
 
 ---
 
-### 📖 Introduction
+### 🗞 Introduction
 
 > **IDesign** is the official open-source repository and digital home for the **IDESIGN CookBook (First Edition)** series published by Selamta Technologies.
 
@@ -22,7 +22,7 @@ Built on a **"book-as-code"** workflow, this project opens up high-quality desig
 
 ---
 
-## 📚 Featured Publication
+## 📜 Featured Publication
 
 <p align="left">
   <img src="https://img.shields.io/badge/Book-IDESIGN%20Cookbook-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white" />
